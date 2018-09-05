@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view class='fab fa-accessible-icon fa-2x'></view>
+  <view class='fab fa-accusoft fa-2x'></view>
+  <view class='fas fa-layer-group fa-2x'></view>
+  <view class='fas fa-hot-tub fa-2x'></view>
+</view>

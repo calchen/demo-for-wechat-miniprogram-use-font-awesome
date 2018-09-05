@@ -1,0 +1,4 @@
+/**index.wxss**/
+.container view{
+  margin-bottom: 40rpx
+}
